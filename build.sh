@@ -1,4 +1,3 @@
-cd ~/go/src/autodeploy
 rm -rf bin/darwin bin/linux bin/windows &&
 mkdir -p bin/darwin bin/linux bin/windows &&
 

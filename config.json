@@ -1,0 +1,46 @@
+{
+    "Gitlab": {
+        "Origin": "http://172.16.7.53:9090",
+        "LoginAction": "/users/sign_in",
+        "Username": "",
+        "Password": ""
+    },
+    "Project": {
+        "Maintainer": "wecloud-comapp",
+        "Name": "wec-comapp-newscore",
+        "MarathonName": "common-newscore-apps",
+        "Short": "newscore"
+    },
+    "Projects": [
+        {
+            "Maintainer": "wecloud-counselor",
+            "Name": "wec-counselor-apps",
+            "MarathonName": "wec-counselor-apps",
+            "Short": "counselor"
+        },
+        {
+            "Maintainer": "wecloud-counselor",
+            "Name": "wec-counselor-sign-apps",
+            "MarathonName": "wec-counselor-sign-apps",
+            "Short": "sign"
+        },
+        {
+            "Maintainer": "wecloud-counselor",
+            "Name": "wec-counselor-collector-apps",
+            "MarathonName": "wec-counselor-collector-apps",
+            "Short": "collector"
+        },
+        {
+            "Maintainer": "wecloud-counselor",
+            "Name": "wec-counselor-worklog-apps",
+            "MarathonName": "wec-counselor-worklog-apps",
+            "Short": "worklog"
+        },
+        {
+            "Maintainer": "wecloud-comapp",
+            "Name": "wec-comapp-newscore",
+            "MarathonName": "common-newscore-apps",
+            "Short": "newscore"
+        }
+    ]
+}

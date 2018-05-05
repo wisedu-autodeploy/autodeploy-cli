@@ -1,8 +1,6 @@
 package main
 
 import (
-	"autodeploy/gitlab"
-	"autodeploy/marathon"
 	"encoding/json"
 	"errors"
 	"fmt"
@@ -11,6 +9,8 @@ import (
 	"os"
 	"strconv"
 
+	"github.com/lisiur/autodeploy/gitlab"
+	"github.com/lisiur/autodeploy/marathon"
 	"github.com/urfave/cli"
 )
 
